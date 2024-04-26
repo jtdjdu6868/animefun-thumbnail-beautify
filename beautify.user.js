@@ -9,6 +9,7 @@
 // @match        https://ani.gamer.com.tw/animeVideo.php*
 // @icon         https://ani.gamer.com.tw/favicon.ico
 // @grant        none
+// @license      MIT
 // ==/UserScript==
 
 (function() {
